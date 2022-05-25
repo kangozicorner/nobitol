@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="nobitol.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="28"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="316"/>
+        <CursorPos Y="326"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ugaleri.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGaleri"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="173"/>
+        <CursorPos X="41" Y="185"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uplayer.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPlayer"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="123"/>
+        <CursorPos X="29" Y="123"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uyoutube.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmYoutube"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="7"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="77"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usplash.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSplashx"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="50"/>
+        <CursorPos X="29" Y="71"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uabout.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmTentang"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="51"/>
+        <CursorPos X="3" Y="53"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usapa.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSapa"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="166"/>
+        <CursorPos X="73" Y="170"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udata.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmData"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="120"/>
+        <CursorPos Y="129"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umsgposisi.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMessagePos"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="28"/>
+        <CursorPos X="20" Y="44"/>
+        <UsageCount Value="65"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\packages_pl\pl_BGRAcontrols\source\bgraflashprogressbar.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="BGRAFlashProgressBar"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="83"/>
+        <CursorPos X="33" Y="96"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Asedese64_v2\umain.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1695"/>
+        <CursorPos X="2" Y="1709"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\typhon\components\turbopower_ipro\ipmsg.pas"/>
+        <FRMtype Value="0"/>
+        <UnitName Value="IpMsg"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3198"/>
+        <CursorPos X="39" Y="3218"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="57" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="135" Column="6" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="190" Column="35" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="191" Column="35" TopLine="189"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="198" Column="35" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="161" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="ugaleri.pas"/>
+        <Caret Line="241" Column="24" TopLine="241"/>
+      </Position>
+      <Position>
+        <Filename Value="ugaleri.pas"/>
+        <Caret Line="242" Column="24" TopLine="242"/>
+      </Position>
+      <Position>
+        <Filename Value="ugaleri.pas"/>
+        <Caret Line="241" Column="24" TopLine="241"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="223" Column="69" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="218" Column="52" TopLine="210"/>
+      </Position>
+      <Position>
+        <Filename Value="ugaleri.pas"/>
+        <Caret Line="185" Column="41" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="9" Column="72"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="127" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="117" Column="5" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="398" Column="31" TopLine="386"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="325" Column="30" TopLine="314"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="327" Column="25" TopLine="314"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="93" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="99" Column="10" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="105" Column="23" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="131" Column="38" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="70" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="69" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="329" Column="19" TopLine="316"/>
+      </Position>
+      <Position>
+        <Filename Value="udata.pas"/>
+        <Caret Line="69" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="140" Column="54" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="219" Column="24" TopLine="194"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="326" TopLine="316"/>
+      </Position>
+      <Position>
+        <Filename Value="uplayer.pas"/>
+        <Caret Line="123" Column="29" TopLine="123"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
